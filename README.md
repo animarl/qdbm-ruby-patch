@@ -1,2 +1,2 @@
 # qdbm-ruby-patch
-Paches of QDBM ruby Library for ruby 2.x
+QDBM 1.8.78 ruby Library patches for ruby 2.x
